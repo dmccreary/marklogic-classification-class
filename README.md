@@ -1,9 +1,13 @@
-= Classification Class =
+# Classification Class
 I am putting together material to be used to teach a class in document classification and matching.
 
 Much of the material is based on the MarkLogic documenation here:
 
 http://docs.marklogic.com/guide/search-dev/classifier
+
+The example still needs the XML from here:
+
+http://www.oasis-open.org/cover/bosakShakespeare200.html
 
 Right now I am not getting the same threshold results as the examples.  My thresholds are like this:
 
